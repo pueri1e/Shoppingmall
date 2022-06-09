@@ -1,0 +1,10 @@
+/* pages/aboutUs/aboutUs.wxss */
+.textcontent{
+  color: #777;
+  letter-spacing: 2px;
+  padding: 20rpx;
+}
+.textcontent .text{
+  text-indent: 2rem; 
+  margin-bottom: 20rpx;
+}

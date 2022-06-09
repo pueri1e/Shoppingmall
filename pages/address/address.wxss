@@ -1,0 +1,7 @@
+/* pages/address/address.wxss */
+ .user_info_row {
+  display: flex;
+  padding: 20rpx;
+  border: 1px solid #ddd;
+  margin: 10rpx;
+}
